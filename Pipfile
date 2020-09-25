@@ -7,7 +7,7 @@ verify_ssl = true
 
 [packages]
 gym = "*"
-tensorflow = "==2.0.0"
+tensorflow = "==2.0.3"
 numpy = "*"
 tensorboard = "==2.0.0"
 
